@@ -1,0 +1,32 @@
+{
+  "Employee": [
+    {
+      "id": 2,
+      "firstName": "Ravi",
+      "lastName": "Varma",
+      "address": "Pune",
+      "gender": "M"
+    },
+    {
+      "id": 3,
+      "firstName": "Deepak",
+      "lastName": "Jadhav",
+      "address": "Mumbai",
+      "gender": "M"
+    },
+    {
+      "id": 4,
+      "firstName": "Deepak",
+      "lastName": "Jadhav",
+      "address": "Mumbai",
+      "gender": "M"
+    },
+    {
+      "id": 5,
+      "firstName": "Deepa",
+      "lastName": "Jadhav",
+      "address": "Mumbai",
+      "gender": "F"
+    }
+  ]
+}
